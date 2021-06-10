@@ -2,8 +2,11 @@ hgb
 h-cqm
 123
 456
+<<<<<<< HEAD
 789
 AAAA
 过
 修改1.txt
 cqm修改
+=======
+

@@ -1,6 +1,25 @@
+<<<<<<< HEAD
 no.4
 ad
 sup
 min
 md
 top
+=======
+aaaa
+bbbb
+cccc
+dddd
+ffff
+
+eeee
+gggg
+hhhh
+uuuu
+oooo
+
+pppp
+llll
+
+kkkk
+>>>>>>> main
