@@ -2,6 +2,11 @@ hgb
 h-cqm
 123
 456
-asdas
-asdasd
-main修改
+<<<<<<< HEAD
+789
+AAAA
+过
+修改1.txt
+cqm修改
+=======
+
